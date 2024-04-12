@@ -77,6 +77,8 @@ AutoCAD는 다른 소프트웨어와 데이터를 교환할 수 있는 기능을
 4. MicroStation은 Bentley Systems에서 개발한 CAD 및 GIS 소프트웨어이다. AutoCAD에서 작성된 DWG 파일을 MicroStation으로 가져와서 편집하거나, MicroStation에서 작성된 파일을 AutoCAD로 가져와서 편집할 수 있다.
 ![스크린샷 2024-04-12 170815](https://github.com/bumbomi/oss_first_team/assets/166104862/abd67b8d-6ecf-4472-a1ee-6063ca11b652)
 *위 사진은 AutoCAD 데이터를 내보내 Revit에 재연결 시킨 결과이다.
+![스크린샷 2024-04-12 215013](https://github.com/bumbomi/oss_first_team/assets/166104862/ccc1c48a-0707-4a28-844e-998ae2c0f0bd)
+*위 사진은 CAD도면을 SketchUP으로 가져온 결과이다.
 
 [4] 오토캐드의 분석 및 측정 기능  
  사용자가 도면의 길이, 면적, 체적등을 측정할 수 있게 해주는 도구를 포함하고 있다. 또한 이런 측정도구를 기반으로 설계에 필요한 분석을 수행하고 있다.
