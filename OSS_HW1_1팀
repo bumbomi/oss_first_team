@@ -65,10 +65,10 @@ AutoCAD는 다른 소프트웨어와 데이터를 교환할 수 있는 기능을
 3. STEP(Standard for the Exchange of Product Data) 및 IGES(Initial Graphics Exchange Specification)와 같은 국제 표준 형식도 지원됩니다. 이러한 형식은 다양한 CAD소프트웨어 간에 데이터를 교환하는 데 사용된다. 
 4. DWG TrueView인데 이것은 AutoCAD DWG 파일을 열 수 있는 무료 뷰어이며, 이를 통해 다른 사람들이 AutoCAD 파일을 열어볼 수 있다. 다섯번째로는 AutoCAD와 다른 CAD 플랫폼 간에 데이터를 교환할 수 있다는 것이다. 
 다음은 AutoCAD와 다른 소프트웨어간의 상호작용의 정확한 예시이다.
-*AutoCAD와 Revit은 모두 Autodesk의 제품으로, 두 소프트웨어 간의 데이터 교환은 비교적 쉽다. AutoCAD에서 작성된 2D 도면을 Revit으로 가져와서 3D 모델로 변환할 수 있다. 마찬가지로, Revit에서 생성된 3D 모델을 AutoCAD로 내보내서 2D 도면으로 변환할 수도 있다.
-*SketchUp은 3D 모델링 및 그래픽 디자인 소프트웨어이다. AutoCAD에서 작성된 DWG 파일을 SketchUp으로 가져와서 3D 모델로 변환할 수 있다. 또한 SketchUp에서 작성된 3D 모델을 AutoCAD로 가져와서 2D 도면으로 변환할 수도 있다.
-*SolidWorks는 주로 기계 및 제조 업무에 사용되는 3D CAD 소프트웨어이다. AutoCAD에서 작성된 2D 도면을 SolidWorks로 가져와서 3D 모델로 변환하거나, SolidWorks에서 작성된 3D 모델을 AutoCAD로 가져와서 2D 도면으로 변환할 수 있다.
-*MicroStation은 Bentley Systems에서 개발한 CAD 및 GIS 소프트웨어이다. AutoCAD에서 작성된 DWG 파일을 MicroStation으로 가져와서 편집하거나, MicroStation에서 작성된 파일을 AutoCAD로 가져와서 편집할 수 있다.
+1. AutoCAD와 Revit은 모두 Autodesk의 제품으로, 두 소프트웨어 간의 데이터 교환은 비교적 쉽다. AutoCAD에서 작성된 2D 도면을 Revit으로 가져와서 3D 모델로 변환할 수 있다. 마찬가지로, Revit에서 생성된 3D 모델을 AutoCAD로 내보내서 2D 도면으로 변환할 수도 있다.
+2. SketchUp은 3D 모델링 및 그래픽 디자인 소프트웨어이다. AutoCAD에서 작성된 DWG 파일을 SketchUp으로 가져와서 3D 모델로 변환할 수 있다. 또한 SketchUp에서 작성된 3D 모델을 AutoCAD로 가져와서 2D 도면으로 변환할 수도 있다.
+3. SolidWorks는 주로 기계 및 제조 업무에 사용되는 3D CAD 소프트웨어이다. AutoCAD에서 작성된 2D 도면을 SolidWorks로 가져와서 3D 모델로 변환하거나, SolidWorks에서 작성된 3D 모델을 AutoCAD로 가져와서 2D 도면으로 변환할 수 있다.
+4. MicroStation은 Bentley Systems에서 개발한 CAD 및 GIS 소프트웨어이다. AutoCAD에서 작성된 DWG 파일을 MicroStation으로 가져와서 편집하거나, MicroStation에서 작성된 파일을 AutoCAD로 가져와서 편집할 수 있다.
 ![스크린샷 2024-04-12 170815](https://github.com/bumbomi/oss_first_team/assets/166104862/abd67b8d-6ecf-4472-a1ee-6063ca11b652)
 *위 사진은 AutoCAD 데이터를 내보내 Revit에 재연결 시킨 결과이다.
 
